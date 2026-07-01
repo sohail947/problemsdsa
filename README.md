@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sohail947/problemsdsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sohail947/problemsdsa/tree/master/0035-search-insert-position) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/sohail947/problemsdsa/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
