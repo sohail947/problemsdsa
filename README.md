@@ -12,15 +12,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sohail947/problemsdsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sohail947/problemsdsa/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sohail947/problemsdsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sohail947/problemsdsa/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sohail947/problemsdsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sohail947/problemsdsa/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sohail947/problemsdsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sohail947/problemsdsa/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -46,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/sohail947/problemsdsa/tree/master/0876-middle-of-the-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
