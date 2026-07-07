@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sohail947/problemsdsa/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sohail947/problemsdsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/sohail947/problemsdsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/sohail947/problemsdsa/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/sohail947/problemsdsa/tree/master/0520-detect-capital) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/sohail947/problemsdsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
 |  |
 | ------- |
