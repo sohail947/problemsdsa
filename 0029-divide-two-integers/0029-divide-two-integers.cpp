@@ -2,7 +2,7 @@ class Solution {
 public:
       int divide(int dividend, int divisor) {
 
-        // Overflow case
+ 
         if (dividend == INT_MIN && divisor == -1)
             return INT_MAX;
 
@@ -24,8 +24,6 @@ public:
             dvd -= temp;
             ans += multiple;
         }
-
-        // Apply sign
         if ((dividend < 0) ^ (divisor < 0))
             ans = -ans;
 
