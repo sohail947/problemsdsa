@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sohail947/problemsdsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sohail947/problemsdsa/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sohail947/problemsdsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/sohail947/problemsdsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/sohail947/problemsdsa/tree/master/1331-rank-transform-of-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sohail947/problemsdsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sohail947/problemsdsa/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sohail947/problemsdsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/sohail947/problemsdsa/tree/master/1331-rank-transform-of-an-array) |
 ## Math
@@ -65,6 +67,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sohail947/problemsdsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/sohail947/problemsdsa/tree/master/1331-rank-transform-of-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sohail947/problemsdsa/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sohail947/problemsdsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
