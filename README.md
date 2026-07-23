@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/sohail947/problemsdsa/tree/master/1331-rank-transform-of-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sohail947/problemsdsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sohail947/problemsdsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sohail947/problemsdsa/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/sohail947/problemsdsa/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/sohail947/problemsdsa/tree/master/0876-middle-of-the-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sohail947/problemsdsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sohail947/problemsdsa/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sohail947/problemsdsa/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
