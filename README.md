@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sohail947/problemsdsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sohail947/problemsdsa/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/sohail947/problemsdsa/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/sohail947/problemsdsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sohail947/problemsdsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sohail947/problemsdsa/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/sohail947/problemsdsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sohail947/problemsdsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sohail947/problemsdsa/tree/master/2149-rearrange-array-elements-by-sign) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sohail947/problemsdsa/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
