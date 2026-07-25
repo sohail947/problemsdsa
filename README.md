@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sohail947/problemsdsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sohail947/problemsdsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/sohail947/problemsdsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
 | ------- |
