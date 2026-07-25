@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sohail947/problemsdsa/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sohail947/problemsdsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sohail947/problemsdsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/sohail947/problemsdsa/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sohail947/problemsdsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/sohail947/problemsdsa/tree/master/1331-rank-transform-of-an-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sohail947/problemsdsa/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/sohail947/problemsdsa/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/sohail947/problemsdsa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sohail947/problemsdsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
