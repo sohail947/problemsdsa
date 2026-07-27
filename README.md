@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sohail947/problemsdsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sohail947/problemsdsa/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sohail947/problemsdsa/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/sohail947/problemsdsa/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/sohail947/problemsdsa/tree/master/1331-rank-transform-of-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sohail947/problemsdsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sohail947/problemsdsa/tree/master/0231-power-of-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sohail947/problemsdsa/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
