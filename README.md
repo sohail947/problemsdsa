@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sohail947/problemsdsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sohail947/problemsdsa/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/sohail947/problemsdsa/tree/master/0485-max-consecutive-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/sohail947/problemsdsa/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sohail947/problemsdsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sohail947/problemsdsa/tree/master/1480-running-sum-of-1d-array) |
