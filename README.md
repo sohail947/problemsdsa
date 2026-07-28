@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sohail947/problemsdsa/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sohail947/problemsdsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sohail947/problemsdsa/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sohail947/problemsdsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/sohail947/problemsdsa/tree/master/1331-rank-transform-of-an-array) |
 ## Math
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sohail947/problemsdsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sohail947/problemsdsa/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/sohail947/problemsdsa/tree/master/0520-detect-capital) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sohail947/problemsdsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sohail947/problemsdsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sohail947/problemsdsa/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sohail947/problemsdsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/sohail947/problemsdsa/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sohail947/problemsdsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
