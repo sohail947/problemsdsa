@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sohail947/problemsdsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sohail947/problemsdsa/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sohail947/problemsdsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sohail947/problemsdsa/tree/master/0485-max-consecutive-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/sohail947/problemsdsa/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sohail947/problemsdsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohail947/problemsdsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sohail947/problemsdsa/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sohail947/problemsdsa/tree/master/0031-next-permutation) |
+| [0283-move-zeroes](https://github.com/sohail947/problemsdsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sohail947/problemsdsa/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/sohail947/problemsdsa/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sohail947/problemsdsa/tree/master/2149-rearrange-array-elements-by-sign) |
