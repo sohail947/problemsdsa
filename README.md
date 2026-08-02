@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sohail947/problemsdsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sohail947/problemsdsa/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/sohail947/problemsdsa/tree/master/0503-next-greater-element-ii) |
+| [0877-stone-game](https://github.com/sohail947/problemsdsa/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/sohail947/problemsdsa/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sohail947/problemsdsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sohail947/problemsdsa/tree/master/1480-running-sum-of-1d-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sohail947/problemsdsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sohail947/problemsdsa/tree/master/0326-power-of-three) |
+| [0877-stone-game](https://github.com/sohail947/problemsdsa/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sohail947/problemsdsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3536-maximum-product-of-two-digits](https://github.com/sohail947/problemsdsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sohail947/problemsdsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sohail947/problemsdsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/sohail947/problemsdsa/tree/master/0877-stone-game) |
 ## Linked List
 |  |
 | ------- |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sohail947/problemsdsa/tree/master/0073-set-matrix-zeroes) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sohail947/problemsdsa/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
