@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sohail947/problemsdsa/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sohail947/problemsdsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sohail947/problemsdsa/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/sohail947/problemsdsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sohail947/problemsdsa/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sohail947/problemsdsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sohail947/problemsdsa/tree/master/0075-sort-colors) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohail947/problemsdsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sohail947/problemsdsa/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sohail947/problemsdsa/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sohail947/problemsdsa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sohail947/problemsdsa/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sohail947/problemsdsa/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/sohail947/problemsdsa/tree/master/0189-rotate-array) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sohail947/problemsdsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sohail947/problemsdsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sohail947/problemsdsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/sohail947/problemsdsa/tree/master/0877-stone-game) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sohail947/problemsdsa/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sohail947/problemsdsa/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/sohail947/problemsdsa/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/sohail947/problemsdsa/tree/master/0503-next-greater-element-ii) |
 ## Design
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sohail947/problemsdsa/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/sohail947/problemsdsa/tree/master/0503-next-greater-element-ii) |
 ## Matrix
 |  |
