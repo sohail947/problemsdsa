@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sohail947/problemsdsa/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/sohail947/problemsdsa/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sohail947/problemsdsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/sohail947/problemsdsa/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [3536-maximum-product-of-two-digits](https://github.com/sohail947/problemsdsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
