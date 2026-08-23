@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sohail947/problemsdsa/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/sohail947/problemsdsa/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/sohail947/problemsdsa/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/sohail947/problemsdsa/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sohail947/problemsdsa/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sohail947/problemsdsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/sohail947/problemsdsa/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sohail947/problemsdsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sohail947/problemsdsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sohail947/problemsdsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/sohail947/problemsdsa/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sohail947/problemsdsa/tree/master/0877-stone-game) |
 ## Linked List
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sohail947/problemsdsa/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sohail947/problemsdsa/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sohail947/problemsdsa/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/sohail947/problemsdsa/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -284,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sohail947/problemsdsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sohail947/problemsdsa/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
