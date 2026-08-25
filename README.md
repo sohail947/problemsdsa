@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sohail947/problemsdsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sohail947/problemsdsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sohail947/problemsdsa/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/sohail947/problemsdsa/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/sohail947/problemsdsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sohail947/problemsdsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sohail947/problemsdsa/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sohail947/problemsdsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sohail947/problemsdsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sohail947/problemsdsa/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/sohail947/problemsdsa/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/sohail947/problemsdsa/tree/master/0520-detect-capital) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sohail947/problemsdsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sohail947/problemsdsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sohail947/problemsdsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sohail947/problemsdsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/sohail947/problemsdsa/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/sohail947/problemsdsa/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sohail947/problemsdsa/tree/master/0877-stone-game) |
 ## Linked List
