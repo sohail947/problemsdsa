@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sohail947/problemsdsa/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/sohail947/problemsdsa/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sohail947/problemsdsa/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/sohail947/problemsdsa/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/sohail947/problemsdsa/tree/master/0877-stone-game) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sohail947/problemsdsa/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/sohail947/problemsdsa/tree/master/1331-rank-transform-of-an-array) |
@@ -319,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sohail947/problemsdsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sohail947/problemsdsa/tree/master/0110-balanced-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sohail947/problemsdsa/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
