@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sohail947/problemsdsa/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/sohail947/problemsdsa/tree/master/0520-detect-capital) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sohail947/problemsdsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3340-check-balanced-string](https://github.com/sohail947/problemsdsa/tree/master/3340-check-balanced-string) |
 ## Dynamic Programming
 |  |
 | ------- |
